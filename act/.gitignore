@@ -1,0 +1,17 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+node_modules
+.env
+.vscode
+*.exe
+*.class
+*.o
+*.a
+*.so
